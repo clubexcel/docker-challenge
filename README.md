@@ -40,6 +40,6 @@ Write a `Dockerfile` that:
 3. Compiles the Go program
 4. Runs the executable when the container starts
 
-Then build and run your image. The webhook URL is available at **[clubexcelofficial.short.gy/challenge](https://clubexcelofficial.short.gy/challenge)** — pass it as an environment variable named `DISCORD_WEBHOOK_URL` when running your container.
+Then build and run your image. The webhook URL is available at **[clubexcelofficial.short.gy/challenge](https://clubexcelofficial.short.gy/challenge)** — pass it as an environment variable named `URL` when running your container.
 
 A successful run will send a submission to our Discord channel. Good luck!
